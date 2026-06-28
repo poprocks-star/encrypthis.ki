@@ -1,0 +1,30 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": 
+"docker":
+   "evn-vars":{
+     "image":
+     "run-mnt":
+     "Display":
+         "viewer":
+            serial:com1 tty dev\dIface (id,1port,fd,baud,framerate,mod,
+            remote:com2 tty dev\dIface (id,2port,af,family,proto,
+     "start-up":
+        "commands":
+        "selection":
+        "options
+        -b:boot|= 
+        -c:cmos|= %
+        -i:powerOn|=
+        -o:powerOff|=
+     ?status:;
+      - Drives:
+       - Free:
+        -path:
+         
+
+   }
+
+
+}
+}
